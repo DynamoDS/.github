@@ -1,4 +1,4 @@
-# Hello, World :wave:
+# Hello, Dynamites! :wave:
 
 Welcome to Dynamo organization on GitHub.
 
@@ -6,7 +6,7 @@ Welcome to Dynamo organization on GitHub.
 
 ## What is Dynamo ?
 
-Dynamo is an open-source software platform for computational design and building information modeling (BIM). Through a friendly visual interface, construct logic routines to smooth and automate workflows, find optimum solutions, and sift through design options.
+Dynamo is an open source software platform for computational design and building information modeling (BIM). Through a friendly visual interface, construct logic routines to smooth and automate workflows, find optimum solutions, and sift through design options.
 
 To learn more about Dynamo please visit us at [dynamobim.org](https://dynamobim.org/)
 
